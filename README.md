@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @docjulz
 - 👀 I’m interested in JavaScript, Python, and web develpment
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and website projects 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on website and simple web app projects 
 - 📫 How to reach me docjulz1@gmail.com
 
 <!---
