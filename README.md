@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @docjulz
+- 👋 Hi, I’m Julian Miller
 - 👀 I’m interested in JavaScript, Python, and web develpment
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on website and simple web app projects 
