@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian Miller
-- 👀 I’m interested in JavaScript, Python, and web develpment
+- 👀 I’m interested Front End Web Development and small application projects with JavaScript, React, and Python
 - 🌱 I’m currently learning React and Responsive Front End Development
 - 💞️ I’m looking to collaborate on website and simple web app projects 
 - 📫 How to reach me docjulz1@gmail.com or https://southcountycreative.com/
